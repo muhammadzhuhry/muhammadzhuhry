@@ -5,8 +5,8 @@
 ### Hello there,  I'm Zhuhry currently working as a Backend Developer	:coffee:	:coffee:
 ![](https://komarev.com/ghpvc/?username=muhammadzhuhry&color=green)
 
-- 🌱 I’m currently learning <b>Go, Kubernetes and Swift</b>  
-- 💬 Ask me about <b>NodeJS and GIT</b>
+- 🌱 I’m currently learning <b>Swift, Go, and Kubernetes</b>  
+- 💬 Ask me about <b>404 and 404</b>
 - 😄 Pronouns: <b>he/him</b>
   
 <b> 💎 Tech Stack</b>
